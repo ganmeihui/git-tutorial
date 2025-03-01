@@ -1,3 +1,3 @@
 console.log("config.js");
-console.log("version 1 - updated");
+console.log("version 12");
 console.log("restore and updated");
